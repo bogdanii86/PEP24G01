@@ -1,1 +1,1 @@
-print(f'test de push pe github')
+print('test de push pe github.')
